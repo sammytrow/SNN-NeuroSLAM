@@ -1,0 +1,1 @@
+#pyreverse -o png -c tensorgraph.optimizers.Adam -k -s 0 -p DIS_VIRTUALENV
